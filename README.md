@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=18&center=true&vCenter=true&width=1000&lines=Initializing+E-commerce+Risk+Engine...;Loading+Behavioral+Analysis+Model...;Validating+Pricing+Integrity...;System+Status:+Production+Ready" />
 </p>
 
----
+<p align="center">
+ <img width="850" height="550" alt="Project" src="https://github.com/user-attachments/assets/2ff340cf-6843-4a7b-9397-a3a9c9eaa26c" />
+</p>
 
 ## 🔹 1️⃣ SYSTEM SPECIFICATIONS
 
