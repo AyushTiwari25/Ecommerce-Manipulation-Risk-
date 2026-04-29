@@ -216,7 +216,7 @@ git clone https://github.com/AyushTiwari25/ecommerce-manipulation-risk-analysis.
 ## 🔹 1️⃣2️⃣ AUTHOR
 
 Ayush Tiwari  
-Data Science | Machine Learning | Analytics  
+Data Analyst | Machine Learning   
 
 ---
 
